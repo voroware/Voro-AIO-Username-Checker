@@ -21,7 +21,7 @@
 
 - [ ] 10 Stars: Add Proxy Support
 - [ ] 25 Stars: Add More Sites
-- [ ] 50 Stars: Python
+- [ ] 50 Stars: Python Version
 - [ ] 100 Stars: Golang Version
 
 ## Requirements:
