@@ -27,4 +27,4 @@
 ## Requirements:
 
 - A Brain
-- A TLS Client (Optional - needed for Kick.com & Solo.to)
+- A TLS Client (Optional - needed for Kick.com & Solo.to username checkers)
