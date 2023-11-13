@@ -19,7 +19,7 @@
 
 ## Todo:
 
-- 10 Stars: [ ] Add Proxy Support
-- 25 Stars: [ ] Add More Sites
-- 50 Stars: [ ] Python
-- 100 Stars: [ ] Golang Version
+- [] 10 Stars:Add Proxy Support
+- [] 25 Stars: Add More Sites
+- [] 50 Stars: Python
+- [] 100 Stars: Golang Version
