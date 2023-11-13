@@ -23,3 +23,8 @@
 - [ ] 25 Stars: Add More Sites
 - [ ] 50 Stars: Python
 - [ ] 100 Stars: Golang Version
+
+## Requirements:
+
+- A Brain
+- A TLS Client (Optional - needed for Kick.com & Solo.to)
