@@ -5,7 +5,7 @@
 <h1 align="center">🗒️ USERNAME CHECKER 🗒️</h1>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1133317136673165312/1173531562252447764/image.png?ex=65644b6f&is=6551d66f&hm=e796f803ea10978e97319a7afcca97a5ef48023f5b0a6c372d7f1fb842fb698f&=&width=1215&height=647" alt="Voro Username Checker">
+  <img src="https://media.discordapp.net/attachments/1187784554338058323/1200591772548608120/image.png?ex=65c6bd38&is=65b44838&hm=0a39afd5c96c6d40315451c473f025b8ed9b3e4dbd09488cb52bc27d19a970b9&=&format=webp&quality=lossless&width=1245&height=662" alt="Voro Username Checker">
 </p>
 
 ## Features:
